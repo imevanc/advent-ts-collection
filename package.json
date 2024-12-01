@@ -1,0 +1,17 @@
+{
+  "name": "advent-ts-collection",
+  "version": "1.0.0",
+  "description": "My collection of advent of code solutions in typescript",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test:type": "tsc --noEmit"
+  },
+  "keywords": [],
+  "author": "Evan Charalampidis",
+  "license": "MIT",
+  "devDependencies": {
+    "type-testing": "^0.2.0",
+    "typescript": "^5.7.2"
+  }
+}
