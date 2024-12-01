@@ -5,12 +5,14 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "test:type": "tsc --noEmit"
+    "test:type": "tsc --noEmit",
+    "prepare": "husky"
   },
   "keywords": [],
   "author": "Evan Charalampidis",
   "license": "MIT",
   "devDependencies": {
+    "husky": "^9.1.7",
     "type-testing": "^0.2.0",
     "typescript": "^5.7.2"
   }
