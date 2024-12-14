@@ -12,6 +12,7 @@
   "author": "Evan Charalampidis",
   "license": "MIT",
   "devDependencies": {
+    "@types/node": "^22.10.2",
     "husky": "^9.1.7",
     "type-testing": "^0.2.0",
     "typescript": "^5.7.2"
